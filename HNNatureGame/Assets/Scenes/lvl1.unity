@@ -643,11 +643,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4667847932881390, guid: e8a03994b1458f94c8133d9b70b665a6, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 11.25
+      value: 56.25
       objectReference: {fileID: 0}
     - target: {fileID: 4667847932881390, guid: e8a03994b1458f94c8133d9b70b665a6, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -4.81
+      value: -12.1
       objectReference: {fileID: 0}
     - target: {fileID: 4667847932881390, guid: e8a03994b1458f94c8133d9b70b665a6, type: 2}
       propertyPath: m_LocalPosition.z
@@ -5291,7 +5291,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: SampleScene
+          m_StringArgument: win
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 370627480}
